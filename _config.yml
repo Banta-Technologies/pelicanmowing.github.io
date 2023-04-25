@@ -1,0 +1,44 @@
+url: /
+baseurl:
+
+# Site settings
+title: Banta Expedited Trucking
+email: vic@bantatrucking.com
+description: "Banta Expedited Trucking hauls up to 10,000 lbs of freight to within 300 miles of the Des Moines Metropolitan area."
+
+
+# Team names, titles and social links
+people:
+- name: Vic Banta
+  pic: 1
+  position:
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
+
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: http://twitter.com/jekyllrb
+  - title: facebook
+    url:
+  - title: stack-overflow
+    url: http://stackoverflow.com/questions/tagged/jekyll
+  - title: bitbucket
+    url: http://bitbucket.org/jekyll
+  - title: github
+    url: http://github.com/jekyll
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 
+  - line: Des Moines, IA
+
+# Build settings
+markdown: kramdown
+permalink: pretty
